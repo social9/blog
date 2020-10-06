@@ -11,11 +11,11 @@ Checkout our [blog site](https://social9.com/blog/) for more info. Or let us kno
 
 ### Contribution Guidelines
 1. Fork the repo.
-2. The content must be written in MD files. You can use [this site](https://dillinger.io/) to preview your writing.
-3. Please validate the grammar using [Grammarly](https://app.grammarly.com/)
+2. Write an article in markdown syntax. You can use [this site](https://dillinger.io/) to preview your writing.
+3. Please validate the grammar using [Grammarly](https://app.grammarly.com/).
 4. Create a pull request and wait for an update from the maintainer. 
 
-### Hactoberfest update
+### Hactoberfest Update
 We've now labelled this project to be a part of the hactoberfest. Just write 4 awesome articles and get your swag.
 
 ### Hugs or Bugs
